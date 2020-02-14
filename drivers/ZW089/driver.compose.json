@@ -9,6 +9,9 @@
     "measure_battery",
     "alarm_contact"
   ],
+  "energy": {
+    "batteries": [ "CR2" ]
+  },
   "images": {
     "large": "{{driverAssetsPath}}/images/large.png",
     "small": "{{driverAssetsPath}}/images/small.png"

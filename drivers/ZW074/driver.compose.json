@@ -11,6 +11,9 @@
     "alarm_motion",
     "measure_temperature"
   ],
+  "energy": {
+    "batteries": [ "AAA", "AAA", "AAA", "AAA" ]
+  },
   "images": {
     "large": "{{driverAssetsPath}}/images/large.jpg",
     "small": "{{driverAssetsPath}}/images/small.jpg"

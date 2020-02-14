@@ -10,6 +10,9 @@
     "measure_temperature",
     "alarm_tamper"
   ],
+  "energy": {
+    "batteries": [ "CR123A" ]
+  },
   "images": {
     "large": "{{driverAssetsPath}}/images/large.png",
     "small": "{{driverAssetsPath}}/images/small.png"

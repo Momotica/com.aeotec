@@ -8,6 +8,9 @@
     "measure_battery",
     "alarm_water"
   ],
+  "energy": {
+    "batteries": [ "AAA" ]
+  },
   "images": {
     "large": "{{driverAssetsPath}}/images/large.png",
     "small": "{{driverAssetsPath}}/images/small.png"

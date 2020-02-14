@@ -9,6 +9,9 @@
     "alarm_tamper",
     "alarm_contact"
   ],
+  "energy": {
+    "batteries": [ "AAA", "AAA" ]
+  },
   "images": {
     "large": "{{driverAssetsPath}}/images/large.png",
     "small": "{{driverAssetsPath}}/images/small.png"
