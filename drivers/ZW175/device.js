@@ -6,12 +6,6 @@ class AeotecSmartSwitchSevenDevice extends ZwaveDevice {
 	
 	onMeshInit() {
 
-		//enable debugging
-		this.enableDebug();
-
-		//print the node's info to the console
-		this.printNode();
-
 		this.registerCapability('onoff', 'SWITCH_BINARY');
 		this.registerCapability('measure_power', 'METER');
 		this.registerCapability('measure_voltage', 'METER');
